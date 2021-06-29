@@ -1,5 +1,4 @@
-#Section 18: Polimorfismo.
-#Leccion 01: Mundo PC (Clase Dispositivo).
+#Mundo PC (Clase Dispositivo).
 
 '''
 Nota:
@@ -13,5 +12,3 @@ class DispositivoEntrada(object):
 		
 
 	
-	
-		
