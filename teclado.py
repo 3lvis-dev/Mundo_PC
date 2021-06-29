@@ -1,5 +1,4 @@
-#Section 18: Polimorfismo.
-#Leccion 03: Mundo PC (Clase Teclado).
+#Mundo PC (Clase Teclado).
 
 '''
 Nota:
@@ -25,3 +24,5 @@ if __name__ == '__main__':
 	print(teclado1)
 	teclado2 = Teclado('Asus', 'Bluetooth')
 	print(teclado2)
+
+	

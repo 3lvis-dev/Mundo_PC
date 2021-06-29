@@ -24,3 +24,4 @@ if __name__ == '__main__':
 	monitor2 = Monitor('Asus', 27)
 	print(monitor2)
 		
+		

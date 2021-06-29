@@ -1,5 +1,4 @@
-#Section 18: Polimorfismo.
-#Leccion 02: Mundo PC (Clase Ráton).
+#Mundo PC (Clase Ráton).
 
 '''
 Nota:
